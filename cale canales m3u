@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1",DirectTV Sports
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16737.m3u8
+
+
+#EXTINF:-1 tvg-chno="2",Azteca 7 Full HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16600.m3u8
